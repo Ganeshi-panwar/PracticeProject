@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PracticeProject</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">Get Phone Contact</string>
+    <string name="textView">Contact</string>
+    <string name="hintText">Enter user Name</string>
+    <string name="heading">Content Provider In Android</string>
+    <string name="insertButtonText">Insert data</string>
+    <string name="deleteButtonText">Delete data</string>
+    <string name="loadButtonText">Load Data</string>
+    <string name="image">image</string>
+    <string name="text_name">BroadCast</string>
+    <string name="image_name">image</string>
+</resources>

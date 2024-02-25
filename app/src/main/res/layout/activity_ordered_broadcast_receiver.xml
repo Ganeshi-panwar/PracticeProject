@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OrderedBroadcastReceiverActivity">
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_margin="20dp"
+        android:textColor="@color/white"
+        android:background="@color/black"
+        android:textSize="35sp"
+        android:text="hi...."
+        android:gravity="center"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+    <Button
+        android:id="@+id/orderedButton"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="50dp"
+        android:text="OrderedBroadCast"
+        android:background="@color/white"
+        app:layout_constraintTop_toBottomOf="@+id/textView"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

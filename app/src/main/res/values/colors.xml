@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Electric_blue">#66FFFF</color>
+    <color name="maya_blue">#4DE1FF</color>
+    <color name="Corn_flower_blue">#4DA6FF</color>
+    <color name="United_nations_blue">#4D88FF</color>
+    <color name="Ultramarine_blue">#4D6AFF</color>
+    <color name="Deep_jungle_green">#004D4D</color>
+    <color name="Mid_night_green">#00404D</color>
+    <color name="Dark_green">#003322</color>
+</resources>
